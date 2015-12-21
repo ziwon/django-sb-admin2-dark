@@ -13,7 +13,7 @@ Create a virtualenv with virtualenvwrapper
 
 	pyvenv-3.4 .venv
 
-Activate virtualenv
+Activate the virtualenv
 
 	source .venv/bin/activate
 
@@ -21,7 +21,7 @@ Install required modules
 
 	pip install -r requirements.txt
 
-Install bower's components
+Install bower's components (reactive-bootstrap, sb-admin2 and etc)
 	
 	./manage.py bower install
 
