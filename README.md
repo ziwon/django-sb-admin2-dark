@@ -21,7 +21,7 @@ Install required modules
 
 	pip install -r requirements.txt
 
-Install bower's components (reactive-bootstrap, sb-admin2 and etc)
+Install bower's components (react-bootstrap, sb-admin2 and etc)
 	
 	./manage.py bower install
 
