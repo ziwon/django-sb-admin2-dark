@@ -1,7 +1,7 @@
 # django-sb-admin2-dark
 
 ## Demo
-![](/home/luno/Workspace/django-sb-admin2-dark/screenshot.png) 
+![](https://raw.githubusercontent.com/patriz/django-sb-admin2-dark/master/screenshot.png) 
 
 ## Installation
 
