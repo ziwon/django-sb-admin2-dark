@@ -1,0 +1,49 @@
+body {
+    background-color: #272b30;
+}
+
+#page-wrapper {
+    background-color: #272b30;
+}
+
+@media(min-width:768px) {
+    #page-wrapper {
+        border-left: 1px solid #000000;
+    }
+}
+
+.sidebar ul li {
+    border-bottom: 1px solid rgba(0,0,0,0.6);
+}
+
+.sidebar ul li a.active {
+    background-color: #;
+}
+
+
+.btn-danger.btn-outline:hover {
+    color: #272b30;
+}
+
+
+.panel-blue {
+    border-color: #428bca;
+}
+
+.panel-blue .panel-heading {
+    border-color: #428bca;
+    color: #fff;
+    background-color: #428bca;
+}
+
+.panel-blue a {
+    color: #5bc0de;
+}
+
+.panel-blue a:hover {
+    color: #438bca;
+}
+
+.morris-chart text {
+	fill: white;
+}
