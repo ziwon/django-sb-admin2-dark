@@ -1,13 +1,19 @@
 # django-sb-admin2-dark
 
 ## Demo
-![](https://raw.githubusercontent.com/patriz/django-sb-admin2-dark/master/screenshot.png) 
+![](https://raw.githubusercontent.com/patriz/django-sb-admin2-dark/master/screenshot.png)
 
-## Installation
+## Prerequiests
 
 Install virtualenvwrapper for Python 3.4 on Ubuntu
 
 	sudo apt-get install python3.4-venv
+
+## Installation
+
+Clone a repo
+
+	git clone https://github.com/patriz/django-sb-admin2-dark.git && cd django-sb-admin2-dark
 
 Create a virtualenv with virtualenvwrapper
 
@@ -22,13 +28,11 @@ Install required modules
 	pip install -r requirements.txt
 
 Install bower's components (react-bootstrap, sb-admin2 and etc)
-	
+
 	./manage.py bower install
 
-## Running
+## Run
 
 Run server
 
 	./manage.py runserver
-
-
