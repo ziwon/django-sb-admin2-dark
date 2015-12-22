@@ -1,6 +1,6 @@
 # django-sb-admin2-dark
 
-## Demo
+## Screenshot
 ![](https://raw.githubusercontent.com/patriz/django-sb-admin2-dark/master/screenshot.png)
 
 ## Prerequiests
