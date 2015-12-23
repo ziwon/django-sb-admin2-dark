@@ -3,7 +3,7 @@
 ## Screenshot
 ![](https://raw.githubusercontent.com/patriz/django-sb-admin2-dark/master/screenshot.png)
 
-## Prerequiests
+## Prerequisites
 
 Install virtualenvwrapper for Python 3.4 on Ubuntu
 
